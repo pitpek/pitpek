@@ -44,7 +44,6 @@
 <div align="left">
         <img width="49.5%" src="https://github-readme-stats.vercel.app/api?            username=Dexte11y&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=EE4779&text_color=C9D1D9&icon_color=00BAE9" />
         <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dexte11y&hide_border=true&background=ffffff00&ring=00BAE9&fire=EE4779&currStreakNum=EE4779&currStreakLabel=EE4779&sideNums=00BAE9&sideLabels=C9D1D9&dates=8B949E" />
-    </a>
 </div>
 
 
