@@ -10,23 +10,21 @@
 <br><br><br><br>
 
 <div align="center">
+    <h4>Using regularly</h4>
+    ![Python]
+    ![Javascript]
+    ![HTML5]
+    ![CSS3]
+    ![Docker]
+    ![PostgreSQL]
+    ![Linux]
+    <h4>Also know</h4>
+    ![Go]
+    ![MongoDB]
+    ![Redis]
+</div>
 
-<h4>Using regularly</h4>
-
-![Python]
-![Javascript]
-![HTML5]
-![CSS3]1
-![Docker]
-![PostgreSQL]
-![Linux]
-
-<h4>Also know</h4>
-
-![Go]
-![MongoDB]
-![Redis]
-
+<br>
 
 <img src="/madia/glowing_line.gif?raw=true">
 
