@@ -77,6 +77,20 @@
 <br>
 
 
+## 🙂 Favorite quotes
+
+
+<br>
+
+
+<div>
+    тут будут цитыты
+</div>
+
+
+<br>
+
+
 <div align="center">
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/tanya-lyubimaya/tanya-lyubimaya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
