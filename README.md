@@ -10,18 +10,18 @@
 <br><br><br><br>
 
 <div align="center">
-    <h4>Using regularly</h4>
-    ![Python]
-    ![Javascript]
-    ![HTML5]
-    ![CSS3]
-    ![Docker]
-    ![PostgreSQL]
-    ![Linux]
-    <h4>Also know</h4>
-    ![Go]
-    ![MongoDB]
-    ![Redis]
+<h4>Using regularly</h4>
+![Python]
+![Javascript]
+![HTML5]
+![CSS3]
+![Docker]
+![PostgreSQL]
+![Linux]
+<h4>Also know</h4>
+![Go]
+![MongoDB]
+![Redis]
 </div>
 
 <br>
