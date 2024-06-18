@@ -33,6 +33,8 @@
 <img src="/madia/glowing_line.gif?raw=true">
 
 
+## <img src="/madia/statistics.webp" width="30px"/>&nbsp;My Statistics
+
 <!--LINKS-->
 <!--https://simpleicons.org <- icons from here-->
 [Go]: https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white
