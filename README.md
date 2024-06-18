@@ -77,14 +77,28 @@
 <br>
 
 
-## 🙂 Favorite quotes
+## ✍️ Favorite quotes
 
 
 <br>
 
 
 <div>
-    тут будут цитыты
+    <h4>
+        Why doesn't it work, FUCK
+    </h4>
+    <h4>
+        I would change the world, but God won't give me the sources
+    </h4>
+    <h4>
+        Chatter is worthless. Show me the code.
+    </h4>
+    <h4>
+        Any fool can write code that a computer can understand. A good programmer writes code that is understandable to humans.
+    </h4>
+    <h4>
+        Programmers are like women: you can't live without them, and sometimes they make you sick.
+    </h4>
 </div>
 
 
