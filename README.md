@@ -10,9 +10,11 @@
 <br>
 
 <div align="center">
-    <h4>Using regularly</h4>
-    [![Go][Go]][Go-url]
-</div>
+
+<h4>Using regularly</h4>
+
+[![Go][Go]][Go-url]
+
 
 <img src="/madia/glowing_line.gif?raw=true">
 
