@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! <img  width=30px src='/madia/wave.gif'></h1>
 
 <div class='about-me'>
-    <img src="/madia/laughing-monkey.gif?raw=true" align="right">&nbsp;
+    <img src="/madia/laughing-monkey.gif?raw=true" align="right" width=100px>&nbsp;
 </div>
 
 
