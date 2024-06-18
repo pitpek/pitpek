@@ -1,5 +1,6 @@
 <h1 align="center">Hello there! <img width="30" src="/madia/wave.gif"></h1>
 
+
 <div class='about-me'>
     <img src="/madia/laughing-monkey.gif?raw=true" align='right' width="250">&nbsp;
     <h4>I'm Federyakin Daniil, developer, currently working and living in Voronezh, Russia.</h4>
@@ -7,9 +8,8 @@
     <h4>In my spare time I do small projects on the side.</h4>
 </div>
 
+
 <br><br><br><br>
-
-
 
 
 <div align="center">
@@ -31,53 +31,44 @@
 
 </div>
 
+
 <br>
+
 
 <img src="/madia/glowing_line.gif?raw=true">
 
 
-
-
-
-
 ## <img src="/madia/statistics.webp" width="30px"/>&nbsp;My Statistics
 
+
 <div align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Dexte11y&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=EE4779&text_color=C9D1D9&icon_color=00BAE9" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dexte11y&hide_border=true&background=ffffff00&ring=00BAE9&fire=EE4779&currStreakNum=EE4779&currStreakLabel=EE4779&sideNums=00BAE9&sideLabels=C9D1D9&dates=8B949E" />
-  </a>
+    <a>
+        <img width="49.5%" src="https://github-readme-stats.vercel.app/api?            username=Dexte11y&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=EE4779&text_color=C9D1D9&icon_color=00BAE9" />
+        <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dexte11y&hide_border=true&background=ffffff00&ring=00BAE9&fire=EE4779&currStreakNum=EE4779&currStreakLabel=EE4779&sideNums=00BAE9&sideLabels=C9D1D9&dates=8B949E" />
+    </a>
 </div>
 
+
 <br>
-
-
-
 
 
 ## ✉️ Contact Me
 
+
 <br>
 
+
 <div align="center">
-    <a href="https://t.me/talyubimaya">
+    <a href="https://t.me/dexte11y">
         <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&labelColor=white">
     </a>
-    <a href="mailto:tatyana.lyubimaya.work@gmail.com">
+    <a href="mailto:daniilfederyakin@gmail.com">
         <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&labelColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/talyubimaya">
-        <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&labelColor=white&logoColor=0A66C2">
-    </a>
-    <a href="https://leetcode.com/tanya-lyubimaya">
-        <img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&labelColor=white">
-    </a>
-    <a href="https://www.kaggle.com/tanyashxr">
-        <img src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&labelColor=white">
     </a>
 </div>
 
-<br>
 
+<br>
 
 
 <img src="https://github.com/tanya-lyubimaya/tanya-lyubimaya/blob/main/media/glowing_line.gif?raw=true">
@@ -85,13 +76,12 @@
 
 <br>
 
+
 <div align="center">
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/tanya-lyubimaya/tanya-lyubimaya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
-
-
 
 
 <!--LINKS-->
