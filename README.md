@@ -2,10 +2,10 @@
 
 <div class='about-me'>
     <img src="/madia/laughing-monkey.gif?raw=true" align="right" width=300px>&nbsp;
-    <p>I`m Federyakin Daniil, developer, currently working and living in Voronezh, Russia.<br>
-       I have a specialty in Information Technology and Computer Security from VSTU.<br>
-       In my spare time I do small projects on the side.
-    </p>
+    <h5>I`m Federyakin Daniil, developer, currently working and living in Voronezh, Russia.</h5>
+    <h5>I have a specialty in Information Technology and Computer Security from VSTU.</h5>
+    <h5>In my spare time I do small projects on the side.</h5>
+
 
 </div>
 
