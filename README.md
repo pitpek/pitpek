@@ -84,8 +84,8 @@
 
 
 <ul>
-    <li>Why doesn't it work, FUCK</li>
-     <li>I would change the world, but God won't give me the sources</li>
+    <li>Why doesn't it work, FUCK.</li>
+     <li>I would change the world, but God won't give me the sources.</li>
     <li>Chatter is worthless. Show me the code.</li>
     <li>Any fool can write code that a computer can understand. A good programmer writes code that is understandable to humans.</li>
     <li>Programmers are like women: you can't live without them, and sometimes they make you sick.</li>
