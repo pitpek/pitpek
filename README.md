@@ -9,6 +9,9 @@
 
 <br><br><br><br>
 
+
+
+
 <div align="center">
 <h4>Using regularly</h4>
     
@@ -33,8 +36,11 @@
 <img src="/madia/glowing_line.gif?raw=true">
 
 
-## <img src="/madia/statistics.webp" width="30px"/>&nbsp;My Statistics
 
+
+
+
+## <img src="/madia/statistics.webp" width="30px"/>&nbsp;My Statistics
 
 <div align="left">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Dexte11y&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=EE4779&text_color=C9D1D9&icon_color=00BAE9" />
@@ -42,13 +48,48 @@
   </a>
 </div>
 
+<br>
 
 
+
+
+
+## ✉️ Contact Me
+
+<br>
+
+<div align="center">
+    <a href="https://t.me/talyubimaya">
+        <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&labelColor=white">
+    </a>
+    <a href="mailto:tatyana.lyubimaya.work@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&labelColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/talyubimaya">
+        <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&labelColor=white&logoColor=0A66C2">
+    </a>
+    <a href="https://leetcode.com/tanya-lyubimaya">
+        <img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&labelColor=white">
+    </a>
+    <a href="https://www.kaggle.com/tanyashxr">
+        <img src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&labelColor=white">
+    </a>
+</div>
 
 <br>
 
 
 
+<img src="https://github.com/tanya-lyubimaya/tanya-lyubimaya/blob/main/media/glowing_line.gif?raw=true">
+
+
+<br>
+
+<div align="center">
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/tanya-lyubimaya/tanya-lyubimaya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
 
 
 
