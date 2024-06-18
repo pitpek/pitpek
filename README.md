@@ -11,6 +11,7 @@
 
 <div align="center">
 <h4>Using regularly</h4>
+    
 ![Python]
 ![Javascript]
 ![HTML5]
@@ -18,10 +19,13 @@
 ![Docker]
 ![PostgreSQL]
 ![Linux]
+
 <h4>Also know</h4>
+
 ![Go]
 ![MongoDB]
 ![Redis]
+
 </div>
 
 <br>
