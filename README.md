@@ -7,10 +7,7 @@
     <h4>In my spare time I do small projects on the side.</h4>
 </div>
 
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br>
 
 <div align="center">
 
