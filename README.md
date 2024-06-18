@@ -11,7 +11,7 @@
 
 <div align="center">
     <h4>Using regularly</h4>
-    [![Go]]
+    [![Go][Go]]
 </div>
 
 <img src="/madia/glowing_line.gif?raw=true">
