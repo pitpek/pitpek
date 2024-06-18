@@ -8,6 +8,9 @@
 </div>
 
 <br>
+<br>
+<br>
+<br>
 
 <div align="center">
 
@@ -15,10 +18,10 @@
 
 ![Python]
 ![Javascript]
+![HTML5]
+![CSS3]1
 ![Docker]
 ![PostgreSQL]
-![HTML5]
-![CSS3]
 ![Linux]
 
 <h4>Also know</h4>
