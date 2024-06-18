@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! <img width="30" src="/madia/wave.gif"></h1>
 
 <div class='about-me'>
-    <img src="/madia/laughing-monkey (1).gif?raw=true" align='right' width="250">&nbsp;
+    <img src="/madia/laughing-monkey.gif?raw=true" align='right' width="250">&nbsp;
     <h4>I'm Federyakin Daniil, developer, currently working and living in Voronezh, Russia.</h4>
     <h4>I have a specialty in Information Technology and Computer Security from VSTU.</h4>
     <h4>In my spare time I do small projects on the side.</h4>
@@ -34,6 +34,9 @@
 
 
 ## <img src="/madia/statistics.webp" width="30px"/>&nbsp;My Statistics
+
+
+
 
 <!--LINKS-->
 <!--https://simpleicons.org <- icons from here-->
