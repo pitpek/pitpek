@@ -85,19 +85,11 @@
 
 <ul>
     <li>Why doesn't it work, FUCK</li>
-    <h4>
-        - I would change the world, but God won't give me the sources
-    </h4>
-    <h4>
-        Chatter is worthless. Show me the code.
-    </h4>
-    <h4>
-        Any fool can write code that a computer can understand. A good programmer writes code that is understandable to humans.
-    </h4>
-    <h4>
-        Programmers are like women: you can't live without them, and sometimes they make you sick.
-    </h4>
-</div>
+     <li>I would change the world, but God won't give me the sources</li>
+    <li>Chatter is worthless. Show me the code.</li>
+    <li>Any fool can write code that a computer can understand. A good programmer writes code that is understandable to humans.</li>
+    <li>Programmers are like women: you can't live without them, and sometimes they make you sick.</li>
+</ul>
 
 
 <br>
