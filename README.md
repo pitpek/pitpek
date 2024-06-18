@@ -84,9 +84,7 @@
 
 
 <div>
-    <h4>
-        Why doesn't it work, FUCK
-    </h4>
+- Why doesn't it work, FUCK
     <h4>
         - I would change the world, but God won't give me the sources
     </h4>
