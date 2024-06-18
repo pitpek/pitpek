@@ -11,7 +11,7 @@
 
 <div align="center">
     <h4>Using regularly</h4>
-    [![Go][Go]]
+    [![Go][Go]][Go-url]
 </div>
 
 <img src="/madia/glowing_line.gif?raw=true">
@@ -20,3 +20,4 @@
 <!--LINKS-->
 <!--https://simpleicons.org <- icons from here-->
 [Go]: https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+[Go-url]: https://go.dev
