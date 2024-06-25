@@ -14,8 +14,8 @@
 
 <div align="center">
 <h4>Using regularly</h4>
-    
-![Python]
+
+![Go]
 ![Javascript]
 ![HTML5]
 ![CSS3]
@@ -25,7 +25,7 @@
 
 <h4>Also know</h4>
 
-![Go]
+![Python]
 ![MongoDB]
 ![Redis]
 
