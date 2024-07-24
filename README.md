@@ -3,7 +3,7 @@
 
 <div class='about-me'>
     <img src="/madia/laughing-monkey.gif?raw=true" align='right' width="250">&nbsp;
-    <h4>I'm Federyakin Daniil, developer, currently working and living in Voronezh, Russia.</h4>
+    <h4>I'm Federyakin Daniil, backend developer, currently working and living in Voronezh, Russia.</h4>
     <h4>I have a specialty in Information Technology and Computer Security from VSTU.</h4>
     <h4>In my spare time I do small projects on the side.</h4>
 </div>
