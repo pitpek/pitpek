@@ -15,17 +15,17 @@
 <div align="center">
 <h4>Using regularly</h4>
 
-![Go]
-![Javascript]
-![HTML5]
-![CSS3]
+![Python]
 ![Docker]
 ![PostgreSQL]
 ![Linux]
 
 <h4>Also know</h4>
 
-![Python]
+![Go]
+![Javascript]
+![HTML5]
+![CSS3]
 ![MongoDB]
 ![Redis]
 
