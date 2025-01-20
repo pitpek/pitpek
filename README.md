@@ -59,7 +59,7 @@
 
 
 <div align="center">
-    <a href="https://t.me/dexte11y">
+    <a href="https://t.me/pitpek">
         <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&labelColor=white">
     </a>
     <a href="mailto:daniilfederyakin@gmail.com">
